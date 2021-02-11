@@ -1,0 +1,8 @@
+github.com/google/uuid v1.2.0 h1:qJYtXnJRWmpe7m/3XlyhrsLrEURqHRM2kxzoxXqyUDs=
+github.com/google/uuid v1.2.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/streadway/amqp v1.0.0 h1:kuuDrUJFZL1QYL9hUNuCxNObNzB0bV/ZG5jV3RWAQgo=
+github.com/streadway/amqp v1.0.0/go.mod h1:AZpEONHx3DKn8O/DFsRAY58/XVQiIPMTMB1SddzLXVw=
+github.lancs.ac.uk/library/hutch v0.0.0-20210209114147-c84acd1d2215 h1:DZu8BFGIiHWK0XHdcQg27ynO7QzLbB9Paic034rrEkk=
+github.lancs.ac.uk/library/hutch v0.0.0-20210209114147-c84acd1d2215/go.mod h1:T9UgjrzSNzPQcqHLRusjgWaOaNkpNdqKGkxXZuN0HSk=
+github.lancs.ac.uk/library/hutch v0.0.0-20210211155443-c0174cd7f1d2 h1:8A30K2e5ltNDsWS5Q/yy+qXn/A2itaiNOVO/YsytsyY=
+github.lancs.ac.uk/library/hutch v0.0.0-20210211155443-c0174cd7f1d2/go.mod h1:O0jO/3ZB3U35ZNtflYkrPWM6Ks9CNKOzOG4P9pBtACk=
