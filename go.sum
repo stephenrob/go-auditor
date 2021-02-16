@@ -70,6 +70,8 @@ github.lancs.ac.uk/library/hutch v0.0.0-20210209114147-c84acd1d2215 h1:DZu8BFGIi
 github.lancs.ac.uk/library/hutch v0.0.0-20210209114147-c84acd1d2215/go.mod h1:T9UgjrzSNzPQcqHLRusjgWaOaNkpNdqKGkxXZuN0HSk=
 github.lancs.ac.uk/library/hutch v0.0.0-20210211155443-c0174cd7f1d2 h1:8A30K2e5ltNDsWS5Q/yy+qXn/A2itaiNOVO/YsytsyY=
 github.lancs.ac.uk/library/hutch v0.0.0-20210211155443-c0174cd7f1d2/go.mod h1:O0jO/3ZB3U35ZNtflYkrPWM6Ks9CNKOzOG4P9pBtACk=
+github.lancs.ac.uk/library/hutch v0.0.0-20210216155509-65996397b18f h1:sW8BpTJDfHsJRybCQt7k1w1tsGqXC9keyLtFBH2Utc0=
+github.lancs.ac.uk/library/hutch v0.0.0-20210216155509-65996397b18f/go.mod h1:O0jO/3ZB3U35ZNtflYkrPWM6Ks9CNKOzOG4P9pBtACk=
 go.opentelemetry.io/otel v0.16.0 h1:uIWEbdeb4vpKPGITLsRVUS44L5oDbDUCZxn8lkxhmgw=
 go.opentelemetry.io/otel v0.16.0/go.mod h1:e4GKElweB8W2gWUqbghw0B8t5MCTccc9212eNHnOHwA=
 golang.org/x/crypto v0.0.0-20180910181607-0e37d006457b/go.mod h1:6SG95UA2DQfeDnfUPMdvaQW0Q7yPrPDi9nlGo2tz2b4=

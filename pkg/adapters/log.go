@@ -27,7 +27,7 @@ func (l *LogAdapter) Shutdown() error {
 
 // LogEvent outputs the audit event to the logger
 func (l *LogAdapter) LogEvent(e *types.AuditEvent) error {
-	l.logger.Printf("actor:%s,entity:%s,description:\"%s\"", e.Actor, e.Entity, e.Description)
+	l.logger.Printf("actor:%s,action:%s,note:\"%s\"", e.Actor, e.Action, e.Note)
 	return nil
 }
 

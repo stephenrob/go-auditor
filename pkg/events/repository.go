@@ -4,7 +4,7 @@ import "github.com/go-pg/pg/v10"
 
 type Repository interface {
 	Create(event *AuditEvent) error
-	GetByID(id int) (AuditEvent, error)
+	GetByID(id int) (*AuditEvent, error)
 }
 
 type DBRepository struct {
