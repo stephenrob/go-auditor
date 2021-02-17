@@ -6,7 +6,7 @@ import (
 )
 
 type AuditEvent struct{
-	ID int
+	ID int `json:"id"`
 	Action string `json:"action"`
 	Actor string `json:"actor"`
 	ActorID string `json:"actor_id"`
